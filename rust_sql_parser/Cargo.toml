@@ -1,0 +1,10 @@
+[package]
+name = "rust_sql_parser"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+assert_cmd = "0.11.1"
+sqlite3-parser = "0.13.0"
+fallible-iterator = "0.3"
+predicates = "1.0.0"
