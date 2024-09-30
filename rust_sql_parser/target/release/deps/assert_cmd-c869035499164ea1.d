@@ -1,0 +1,11 @@
+/Users/kclauson/code/RustSQLParser/rust_sql_parser/target/release/deps/libassert_cmd-c869035499164ea1.rmeta: /Users/kclauson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-0.11.1/src/lib.rs /Users/kclauson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-0.11.1/src/assert.rs /Users/kclauson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-0.11.1/src/cargo.rs /Users/kclauson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-0.11.1/src/cmd.rs /Users/kclauson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-0.11.1/src/stdin.rs
+
+/Users/kclauson/code/RustSQLParser/rust_sql_parser/target/release/deps/libassert_cmd-c869035499164ea1.rlib: /Users/kclauson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-0.11.1/src/lib.rs /Users/kclauson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-0.11.1/src/assert.rs /Users/kclauson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-0.11.1/src/cargo.rs /Users/kclauson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-0.11.1/src/cmd.rs /Users/kclauson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-0.11.1/src/stdin.rs
+
+/Users/kclauson/code/RustSQLParser/rust_sql_parser/target/release/deps/assert_cmd-c869035499164ea1.d: /Users/kclauson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-0.11.1/src/lib.rs /Users/kclauson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-0.11.1/src/assert.rs /Users/kclauson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-0.11.1/src/cargo.rs /Users/kclauson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-0.11.1/src/cmd.rs /Users/kclauson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-0.11.1/src/stdin.rs
+
+/Users/kclauson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-0.11.1/src/lib.rs:
+/Users/kclauson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-0.11.1/src/assert.rs:
+/Users/kclauson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-0.11.1/src/cargo.rs:
+/Users/kclauson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-0.11.1/src/cmd.rs:
+/Users/kclauson/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-0.11.1/src/stdin.rs:
